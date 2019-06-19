@@ -101,7 +101,7 @@ The university has a guide to how to reach the university here:
 There is numerous options for accommodation in Edinburgh (these are options and other travel and accommodation sites may provide other options for accommodation):
 
 * [https://www.edinburghfirst.co.uk/accommodation-internal/](https://www.edinburghfirst.co.uk/accommodation-internal/)
-* [https://edinburgh.org/hotels](Edinburgh Guide)
+* [https://edinburgh.org/hotels](https://edinburgh.org/hotels)
 
 ### Contacting Us
 
