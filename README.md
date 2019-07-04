@@ -31,13 +31,13 @@ This is the draft programme for the two day workshop - it can be changed and any
 ##### 09:30
 Registration and Welcome
 
-##### 10:00 - 12:00   
+##### 10:00 - 12:30   
 Showcase of existing activities including Raspberry Pi clusters
 
-##### 12:00 - 13:00
+##### 12:30 - 13:30
 Lunch (provided for all attendees)
 
-##### 13:00 - 16:00 (Tea Break Included)
+##### 13:30 - 16:00 (Tea Break Included)
 
 * Discussion of what schools, students and teachers need
 * Identify gaps in current provisioning of training and materials
